@@ -8,7 +8,7 @@ Coffee:coffee:|Matcha:tea: addict :+1:
      - Own a 3D Printer(Ender3v2) with Klipper setup
      - Build DIY Small Bots
 
-Currently, I'm working as an Professonal Solution Consultant in [Genesys](www.genesys.com), with Leading Edge Software Technolgies in an International Environment. 
+Currently, I'm working as a Professonal Solution Consultant in [Genesys](www.genesys.com), with Leading Edge Software Technolgies in an International Environment. 
 
 Connect with me on : 
  - [LinkedIn](https://www.linkedin.com/in/vincent-yeong-a953a062/)

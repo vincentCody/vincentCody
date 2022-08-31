@@ -1,14 +1,18 @@
 # 👋 **Hi, I’m @vincentCody**
-###### Publishing my workspace for My Github and Resume
+###### Publishing my workspace (DIY projects) for My Github and Resume
 I'm a Go-Getter :brain: and Hungry for :globe_with_meridians: |Technology Enthusiast :technologist: |Commercial :pilot:
 
 Coffee:coffee:|Matcha:tea: addict :+1:
 - Fun Facts : 
      - Hangouts and doing boring stuffs
      - Own a 3D Printer(Ender3v2) with Klipper setup
-     - Build own Small Bots for fun a.k.a. wasting money
+     - Build DIY Small Bots
 
-Currently, I'm working an Professonal Solution Consultant in [Genesys](www.genesys.com), working with Leading Edge Software Technolgies in an International Environment. 
+Currently, I'm working as an Professonal Solution Consultant in [Genesys](www.genesys.com), with Leading Edge Software Technolgies in an International Environment. 
+Connect with me on : 
+ - [LinkedIn](https://www.linkedin.com/in/vincent-yeong-a953a062/)
+ - [Intagram](https://www.instagram.com/vincentkarl90/)
+ - [Patreon](https://www.patreon.com/tnernd)
 
 ## *My nature of work :* 
 

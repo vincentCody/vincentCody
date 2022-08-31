@@ -9,6 +9,7 @@ Coffee:coffee:|Matcha:tea: addict :+1:
      - Build DIY Small Bots
 
 Currently, I'm working as an Professonal Solution Consultant in [Genesys](www.genesys.com), with Leading Edge Software Technolgies in an International Environment. 
+
 Connect with me on : 
  - [LinkedIn](https://www.linkedin.com/in/vincent-yeong-a953a062/)
  - [Intagram](https://www.instagram.com/vincentkarl90/)

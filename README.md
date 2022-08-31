@@ -4,9 +4,9 @@ I'm a Go-Getter :brain: and Hungry for :globe_with_meridians: |Technology Enthus
 
 Coffee:coffee:|Matcha:tea: addict :+1:
 - Fun Facts : 
-     - Hangouts and doing boring staffs
+     - Hangouts and doing boring stuffs
      - Own a 3D Printer(Ender3v2) with Klipper setup
-     - Build own Small Bots
+     - Build own Small Bots for fun a.k.a. wasting money
 
 Currently, I'm working an Professonal Solution Consultant in [Genesys](www.genesys.com), working with Leading Edge Software Technolgies in an International Environment. 
 

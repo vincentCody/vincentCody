@@ -4,7 +4,7 @@
 - :technologist: Technology Enthusiast 
 - :pilot:Commercial 
 - :runner:Casual gym-goer 
-- :coffee:Coffee|:tea:Matcha lover :+1:
+- :coffee:Coffee:tea:Matcha lover :+1:
  - Fun Facts : 
      - Hangouts and doing boring stuffs
      - Own a 3D Printer(Ender3v2) with Klipper setup

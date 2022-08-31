@@ -1,9 +1,11 @@
-# 👋 **Hi, I’m @vincentCody**
+# 👋 **Hi there, I’m @vincentCody**
 ###### Publishing my workspace (DIY projects) for My Github and Resume
-I'm a Go-Getter :brain: and Hungry for :globe_with_meridians: |Technology Enthusiast :technologist: |Commercial :pilot:
-
-Coffee:coffee:|Matcha:tea: addict :+1:
-- Fun Facts : 
+- :mage: I'm a Go-Getter :brain: and Hungry for :globe_with_meridians: 
+- :technologist: Technology Enthusiast 
+- :pilot:Commercial 
+- :runner:Casual gym-goer 
+- :coffee:Coffee|:tea:Matcha lover :+1:
+ - Fun Facts : 
      - Hangouts and doing boring stuffs
      - Own a 3D Printer(Ender3v2) with Klipper setup
      - Build DIY Small Bots
@@ -22,7 +24,6 @@ Connect with me on :
 - :white_check_mark: Develop Testcases and Testings
 - :white_check_mark: TTT
  
-  
 ## *Achievements :* 
 
  - :trophy: Lead multinational enterprises-projects
@@ -43,5 +44,6 @@ Digital channels :
 SMS
 Voice
 Whatsapp/Messagers/bots
-
+<!--
 ![image](https://user-images.githubusercontent.com/10962548/187655532-7beeab93-ad68-4dd8-9aa7-6dc1dca51465.png)
+-->

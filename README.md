@@ -27,9 +27,9 @@ Connect with me on :
 ## *Achievements :* 
 
  - :trophy: Lead multinational enterprise-projects
- - :1st_place_medal: First-Class Customer Service Expereince
- - :2nd_place_medal: Desgin Solutions for Works
- - :3rd_place_medal: Automation tools : Org Migration, Stramline Solution Delivery/Packaging.
+ - :1st_place_medal: First-Class Customer Service Experience
+ - :2nd_place_medal: OOTD Solutions for Works
+ - :3rd_place_medal: Corp. Automation tools : Org Migration, Stramline Solution Delivery/Packaging.
 
 
 **Technical skillsets :** API , Python, Javascript, Java, Perl, Linux/AIX Scripting, C/C++ programming (Come on mates , [Learning As You Go](https://www.youtube.com/watch?v=sRquXgHVjr0))

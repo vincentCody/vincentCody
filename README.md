@@ -26,7 +26,7 @@ Connect with me on :
  
 ## *Achievements :* 
 
- - :trophy: Lead multinational enterprises-projects
+ - :trophy: Lead multinational enterprise-projects
  - :1st_place_medal: First-Class Customer Service Expereince
  - :2nd_place_medal: Desgin Solutions for Works
  - :3rd_place_medal: Automation tools : Org Migration, Stramline Solution Delivery/Packaging.
